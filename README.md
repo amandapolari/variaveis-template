@@ -30,31 +30,6 @@
 ### Resolução
 
 ```js
-//=> SINTAXE BÁSICA <=
-
-// 1. COMENTÁRIOS:
-
-// Isso é um comentário de uma linha
-
-/*
-Isso
-é
-um
-Comentário
-de
-muitas
-linhaaaas!
-*/
-
-// 2. IMPRIMINDO NO CONSOLE:
-console.log("Olá Mundo");
-console.log("Aulinha básica de JS <3");
-
-// 3. PROMPT
-prompt("Qual é o seu nome?");
-prompt("Qual é a sua idade");
-console.log(prompt("Qual é o seu nome?"))
-
 // => PRÁTICAS <=
 // 1. PRIMEIRA PRÁTICA
 const nome = "Amanda Oliveira Polari de Alcântara";
