@@ -63,7 +63,7 @@ console.log("Olá!", "Meu nome é", nome, "e eu tenho", idade, "anos de idade");
 ### Resolução
 
 ```js
-// SEGUNDA PRÁTICA:
+// 2. SEGUNDA PRÁTICA:
 //cenário A
 let temPet = false;
 let nomePet = null;
@@ -94,7 +94,7 @@ console.log(typeof nomePet);
 ### Resolução
 
 ```js
-// TERCEIRA PRÁTICA:
+// 3. TERCEIRA PRÁTICA:
 
 const marcaFoneDeOuvido = 'JBL';
 let anosDeUso = 3;
